@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Lưu Hoài Nam",
+        "phoneNumber":"0981698597",
+        "permission": 1
+    },
+    {
+        "id":2,
+        "name":"Hoàng Thu Hà",
+        "phoneNumber":"0981698598",
+        "permission": 2
+    },
+    {
+        "id":3,
+        "name":"Nguyễn Văn A",
+        "phoneNumber":"0981698599",
+        "permission": 3
+    },
+    {
+        "id":4,
+        "name":"Trần Thị B",
+        "phoneNumber":"0981698510",
+        "permission": 3
+    },
+    {
+        "id":5,
+        "name":"Lionel Messi",
+        "phoneNumber":"0981698511",
+        "permission": 1
+    }
+]
